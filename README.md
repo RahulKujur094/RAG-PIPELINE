@@ -29,8 +29,8 @@ A Retrieval-Augmented Generation (RAG) chatbot that can answer questions about Y
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Rag-Pipelin---YouTube-chatbot.git
-    cd Rag-Pipelin---YouTube-chatbot
+    git clone https://github.com/yourusername/RAG-PIPELINE.git
+    cd RAG-PIPELINE
     ```
 
 2. Install required packages:
@@ -101,7 +101,7 @@ The chatbot follows a RAG (Retrieval-Augmented Generation) architecture:
 ## 📁 Project Structure
 
     ```
-    Rag-Pipelin---YouTube-chatbot/
+    RAG-PIPELINE/
     ├── youtube_chatbot.ipynb    # Main notebook with implementation
     ├── README.md               # Project documentation
     └── requirements.txt        # Python dependencies (if created)
