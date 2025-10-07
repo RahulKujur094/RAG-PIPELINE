@@ -29,7 +29,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that can answer questions about Y
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/RAG-PIPELINE.git
+    git clone https://github.com/RahulKujur094/RAG-PIPELINE.git
     cd RAG-PIPELINE
     ```
 
